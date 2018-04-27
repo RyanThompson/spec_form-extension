@@ -1,0 +1,9 @@
+{
+    "name": "frp/spec_form-extension",
+    "type": "streams-addon",
+    "autoload": {
+        "psr-4": {
+            "Frp\\SpecFormExtension\\": "src/"
+        }
+    }
+}
