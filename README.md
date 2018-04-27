@@ -1,3 +1,3 @@
 # Spec Form Extension
 
-Example source code for https://youtu.be/uocXeLC4iqk
+Source code for video tutorial: https://youtu.be/uocXeLC4iqk
